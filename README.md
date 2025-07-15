@@ -69,3 +69,7 @@ Empower HR professionals with insightful visualizations.
 Reduce manual reporting time.
 Identify patterns in attrition, hiring, and employee engagement.
 Facilitate data-driven decisions across HR functions.
+
+11.📸 Sample Visuals
+
+Show what the Dashboard looks like.-()
