@@ -72,7 +72,8 @@ Facilitate data-driven decisions across HR functions.
 
 11.📸 Sample Visuals
 
-Show what the Dashboard looks like.-(https://github.com/Govind-Kumar02/HR-Dashboard/blob/main/Dashboard.png)
+Show what the Dashboard looks like.
+![Employee Overview]()
 
 12.📈 KPIs Included
 Attrition Rate
