@@ -73,3 +73,17 @@ Facilitate data-driven decisions across HR functions.
 11.📸 Sample Visuals
 
 Show what the Dashboard looks like.-(https://github.com/Govind-Kumar02/HR-Dashboard/blob/main/Dashboard.png)
+
+12.📈 KPIs Included
+Attrition Rate
+Employee Turnover
+Time to Hire
+Gender Diversity Index
+Tenure Distribution
+Departmental Headcount
+
+12.🤝 Contributions
+
+Contributions, feedback, and forks are welcome! If you have improvements, ideas, or want to extend the analysis (e.g., training analytics, payroll insights), feel free to open a pull request.
+
+
